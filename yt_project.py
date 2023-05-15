@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/18NZcAf2g2jW7b2FxzAYwDoe3pSQgaxr3
 """
 
-!pip install streamlit
 !pip install pymongo
 !pip install mysql-connector-python
 
